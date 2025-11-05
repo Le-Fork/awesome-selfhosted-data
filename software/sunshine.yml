@@ -10,6 +10,14 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/LizardByte/Sunshine
-stargazers_count: 28145
-updated_at: '2025-08-16'
+stargazers_count: 30861
+updated_at: '2025-11-02'
 archived: false
+current_release:
+  tag: v2025.1027.181930
+  published_at: '2025-10-27'
+commit_history:
+  2025-08: 34
+  2025-09: 44
+  2025-10: 22
+  2025-11: 6

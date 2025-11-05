@@ -8,8 +8,16 @@ platforms:
   - Docker
 tags:
   - Ticketing
-source_code_url: https://github.com/freescout-helpdesk/freescout
+source_code_url: https://github.com/freescout-help-desk/freescout
 demo_url: https://demo.freescout.net/login
-stargazers_count: 3649
-updated_at: '2025-08-01'
+stargazers_count: 3865
+updated_at: '2025-11-01'
 archived: false
+current_release:
+  tag: 1.8.195
+  published_at: '2025-11-01'
+commit_history:
+  2025-08: 19
+  2025-09: 1
+  2025-10: 25
+  2025-11: 2
