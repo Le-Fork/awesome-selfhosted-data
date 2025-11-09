@@ -30,7 +30,7 @@ jobs:
       - name: Fetch & merge upstream
         run: |
           git fetch upstream
-          git merge upstream/${{ github.ref_name }} --no-edit
+          git merge upstream/${{ github.ref_name }} --no-edit -X ours -- . ':!.github/workflows/'
 
       - name: Push merged changes
         run: git push origin HEAD:${{ github.ref_name }}
