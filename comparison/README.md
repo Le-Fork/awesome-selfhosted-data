@@ -1,3 +1,7 @@
+## Important
+
+This script is currently **not functional**. The `comparison/` folder was moved to the root level to avoid CI failures that rose from changes upstream. File paths in `extract_and_compare.py` need to be updated before this script can be used.
+
 # Software Extraction and Comparison
 
 This folder contains scripts to extract software names from YAML files and compare them against a curated software list.
