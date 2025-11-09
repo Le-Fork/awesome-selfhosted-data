@@ -9,6 +9,14 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/m1k1o/neko
-stargazers_count: 14892
-updated_at: '2025-07-24'
+stargazers_count: 15810
+updated_at: '2025-10-20'
 archived: false
+current_release:
+  tag: v3.0.0
+  published_at: '2025-04-01'
+commit_history:
+  2025-08: 1
+  2025-09: 9
+  2025-10: 1
+  2025-11: 0
