@@ -8,8 +8,8 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Miscellaneous
-stargazers_count: 5015
+  - Network Utilities
+stargazers_count: 5025
 updated_at: '2026-01-04'
 archived: false
 current_release:
