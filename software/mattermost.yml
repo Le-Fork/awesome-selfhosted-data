@@ -2,8 +2,7 @@ name: Mattermost
 website_url: https://mattermost.com/
 description: Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack).
 licenses:
-  - AGPL-3.0
-  - Apache-2.0
+  - ⊘ Proprietary
 platforms:
   - Go
   - Docker
@@ -11,8 +10,8 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/mattermost/mattermost
-stargazers_count: 35278
-updated_at: '2026-02-11'
+stargazers_count: 35292
+updated_at: '2026-02-12'
 archived: false
 current_release:
   tag: v11.5.0-rc1
@@ -29,4 +28,4 @@ commit_history:
   2025-11: 116
   2025-12: 87
   2026-01: 120
-  2026-02: 53
+  2026-02: 64
