@@ -1,16 +1,15 @@
-name: Cal.com
-website_url: https://cal.com/
+name: Cal.diy
+website_url: https://cal.diy/
 description: Online appointment scheduling system.
 licenses:
-  - AGPL-3.0
+  - MIT
 platforms:
   - Nodejs
 tags:
   - Booking and Scheduling
-source_code_url: https://github.com/calcom/cal.com
-demo_url: https://app.cal.com/bailey
-stargazers_count: 40943
-updated_at: '2026-04-01'
+source_code_url: https://github.com/calcom/cal.diy
+stargazers_count: 41324
+updated_at: '2026-04-16'
 archived: false
 current_release:
   tag: v6.2.0
@@ -27,4 +26,4 @@ commit_history:
   2026-01: 618
   2026-02: 305
   2026-03: 91
-  2026-04: 4
+  2026-04: 40
