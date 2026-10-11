@@ -8,8 +8,9 @@ platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/slink.webp
 stargazers_count: 1601
-updated_at: '2026-10-03'
+updated_at: '2026-10-10'
 archived: false
 current_release:
   tag: v1.14.0
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 62
   2026-08: 14
   2026-09: 33
-  2026-10: 4
+  2026-10: 12

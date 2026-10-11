@@ -9,7 +9,8 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/sentriz/gonic
-stargazers_count: 2566
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gonic.webp
+stargazers_count: 2568
 updated_at: '2026-10-08'
 archived: false
 current_release:

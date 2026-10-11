@@ -10,7 +10,8 @@ tags:
   - Feed Readers
 source_code_url: https://github.com/Athou/commafeed
 demo_url: https://www.commafeed.com/#/app/category/all
-stargazers_count: 3630
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/commafeed.webp
+stargazers_count: 3629
 updated_at: '2026-10-04'
 archived: false
 current_release:

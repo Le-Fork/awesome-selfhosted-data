@@ -11,7 +11,8 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/coder/coder
-stargazers_count: 16919
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/coder.webp
+stargazers_count: 16951
 updated_at: '2026-10-10'
 archived: false
 current_release:
@@ -29,4 +30,4 @@ commit_history:
   2026-07: 417
   2026-08: 606
   2026-09: 680
-  2026-10: 233
+  2026-10: 235

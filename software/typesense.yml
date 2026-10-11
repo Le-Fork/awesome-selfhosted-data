@@ -11,7 +11,8 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/typesense/typesense
-stargazers_count: 26843
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typesense.webp
+stargazers_count: 26850
 updated_at: '2026-10-09'
 archived: false
 current_release:

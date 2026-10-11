@@ -9,7 +9,8 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/coder/code-server
-stargazers_count: 79569
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/code-server.webp
+stargazers_count: 79577
 updated_at: '2026-10-09'
 archived: false
 current_release:

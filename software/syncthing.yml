@@ -10,7 +10,8 @@ platforms:
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/syncthing/syncthing
-stargazers_count: 89255
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/syncthing.webp
+stargazers_count: 89298
 updated_at: '2026-10-09'
 archived: false
 current_release:

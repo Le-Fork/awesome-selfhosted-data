@@ -9,7 +9,8 @@ platforms:
   - Nodejs
 tags:
   - Network Utilities
-stargazers_count: 3031
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/myspeed.webp
+stargazers_count: 3032
 updated_at: '2026-10-09'
 archived: false
 current_release:
