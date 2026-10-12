@@ -9,7 +9,7 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/SolidInvoice/SolidInvoice
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/solid-invoice.webp
-stargazers_count: 977
+stargazers_count: 976
 updated_at: '2026-10-11'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 140
   2026-08: 77
   2026-09: 125
-  2026-10: 48
+  2026-10: 49
