@@ -1,6 +1,6 @@
 name: FileGator
 website_url: https://filegator.io/
-description: FileGator is a powerful multi-user file manager with a single page front-end.
+description: Powerful multi-user file manager with a single page front-end.
 licenses:
   - MIT
 platforms:
@@ -18,7 +18,6 @@ current_release:
   tag: v7.16.8
   published_at: '2026-10-21'
 commit_history:
-  2025-11: 0
   2025-12: 0
   2026-01: 8
   2026-02: 0
@@ -30,3 +29,4 @@ commit_history:
   2026-08: 10
   2026-09: 20
   2026-10: 7
+  2026-11: 0
